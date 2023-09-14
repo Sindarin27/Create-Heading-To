@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "sindarin.create_heading_to.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "create_heading_to.refmap.json",
+  "mixins": [
+  ]
+}
